@@ -1,2 +1,5 @@
 VERSION
 R-Portable/
+dist/R-Portable_3.4.2.paf.exe
+app/library
+log/error.log
